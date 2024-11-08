@@ -4,7 +4,7 @@
     "url": "https://app.staple.science",
     "icon": "https://icons.duckduckgo.com/ip3/app.staple.science.ico",
     "slug": "main-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1848,
     "timeMonth": 946,
     "timeYear": 882,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-08": 0
+    }
   },
   {
     "name": "Test area",
