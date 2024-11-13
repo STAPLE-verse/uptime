@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.staple.science.ico",
     "slug": "main-app",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.05%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "99.71%",
-    "time": 863,
-    "timeDay": 797,
-    "timeWeek": 1736,
-    "timeMonth": 948,
-    "timeYear": 863,
+    "uptimeYear": "99.72%",
+    "time": 857,
+    "timeDay": 566,
+    "timeWeek": 1720,
+    "timeMonth": 955,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2024-11-08": 197
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 750,
-    "timeWeek": 1023,
-    "timeMonth": 614,
-    "timeYear": 655,
+    "time": 653,
+    "timeDay": 543,
+    "timeWeek": 1016,
+    "timeMonth": 623,
+    "timeYear": 653,
     "dailyMinutesDown": {}
   }
 ]
