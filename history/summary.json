@@ -25,7 +25,7 @@
     "url": "https://test.staple.science/",
     "icon": "https://icons.duckduckgo.com/ip3/test.staple.science.ico",
     "slug": "test-area",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 541,
     "timeYear": 580,
     "dailyMinutesDown": {
+      "2025-10-09": 0,
       "2025-08-14": 42,
       "2025-08-02": 21,
       "2025-05-23": 92,
