@@ -26,13 +26,13 @@
     "url": "https://test.staple.science/",
     "icon": "https://icons.duckduckgo.com/ip3/test.staple.science.ico",
     "slug": "test-area",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.29%",
-    "time": 603,
+    "time": 604,
     "timeDay": 552,
     "timeWeek": 542,
     "timeMonth": 580,
@@ -56,7 +56,8 @@
       "2026-03-30": 342,
       "2026-04-01": 70,
       "2026-03-31": 13,
-      "2026-04-22": 67
+      "2026-04-22": 67,
+      "2026-05-30": 0
     }
   }
 ]
