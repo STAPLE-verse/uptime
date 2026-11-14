@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 788,
-    "timeDay": 819,
-    "timeWeek": 846,
-    "timeMonth": 837,
-    "timeYear": 805,
+    "time": 789,
+    "timeDay": 909,
+    "timeWeek": 896,
+    "timeMonth": 823,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2025-12-16": 40,
       "2026-03-30": 74
@@ -25,17 +25,17 @@
     "url": "https://test.staple.science/",
     "icon": "https://icons.duckduckgo.com/ip3/test.staple.science.ico",
     "slug": "test-area",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.72%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "95.71%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "98.74%",
     "time": 633,
     "timeDay": 703,
-    "timeWeek": 574,
-    "timeMonth": 677,
-    "timeYear": 648,
+    "timeWeek": 616,
+    "timeMonth": 671,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2025-12-29": 577,
       "2025-12-30": 96,
@@ -55,7 +55,8 @@
       "2026-08-17": 73,
       "2026-10-10": 888,
       "2026-10-09": 44,
-      "2026-11-11": 432
+      "2026-11-11": 432,
+      "2026-11-14": 0
     }
   }
 ]
