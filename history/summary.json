@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 789,
-    "timeDay": 909,
+    "timeDay": 998,
     "timeWeek": 896,
     "timeMonth": 823,
     "timeYear": 806,
@@ -26,13 +26,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.staple.science.ico",
     "slug": "test-area",
     "status": "down",
-    "uptime": "98.71%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "98.74%",
+    "uptime": "98.70%",
+    "uptimeDay": "90.60%",
+    "uptimeWeek": "94.37%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
     "time": 633,
-    "timeDay": 703,
+    "timeDay": 0,
     "timeWeek": 616,
     "timeMonth": 671,
     "timeYear": 649,
@@ -56,7 +56,7 @@
       "2026-10-10": 888,
       "2026-10-09": 44,
       "2026-11-11": 432,
-      "2026-11-14": 0
+      "2026-11-14": 135
     }
   }
 ]
